@@ -1,0 +1,32 @@
+#thanos {
+    height: 200px;
+}
+
+#spiderman {
+    height: 200px;
+}
+
+#warMachine{
+    height: 500px;
+    width: 300px;
+}
+
+#blackPanther {
+    height: 200px;
+}
+
+#thanosSnap {
+    display: none;
+}
+
+body{
+    background: purple;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+p {
+    color: #FFFFFF;
+}
